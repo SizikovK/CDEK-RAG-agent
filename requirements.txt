@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+langchain
+langgraph
+langchain-community
+langchain-openai
+langchain-ollama
+
+sentence-transformers
+sqlite-vss
